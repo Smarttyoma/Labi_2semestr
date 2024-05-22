@@ -1,0 +1,3 @@
+C:/Build/Projects/CMakeFiles/zadanie_7.dir
+C:/Build/Projects/CMakeFiles/ALL_BUILD.dir
+C:/Build/Projects/CMakeFiles/ZERO_CHECK.dir
